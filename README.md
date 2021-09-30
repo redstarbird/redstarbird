@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @redstarbird
+- 👀 I’m interested in all kinds of programming
+- 📫 How to reach me: contact me at contact@redstarbird.com
